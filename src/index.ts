@@ -81,3 +81,6 @@ class Calvinball implements Result{
         throw new Error("Method not implemented.");
     }
 }
+
+let sportok : Result[]=[    
+];
